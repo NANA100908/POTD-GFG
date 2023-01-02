@@ -12,5 +12,33 @@ Please create an issue if you wish to add code in a language that is not current
         </a>
     </li>
     <li>
-    
+        <a href="/Binary-search.cpp">
+            Binary Search [CPP]
+        </a>
+    </li>
+    <li>
+        <a href="/Break-a-number.cpp">
+            Break A Number [CPP]
+        </a>
+    </li>
+    <li>
+        <a href="/Check-if-two-arrays-are-equal-or-not.cpp">
+            Check if two arrays are equal or not [CPP]
+        </a>
+    </li>
+    <li>
+        <a href="/Print-alternate-elements-of-an-array.cpp">
+            Print alternate elements of an array [CPP]
+        </a>
+    </li>
+    <li>
+        <a href="/Second-largest.cpp">
+            Second largest [CPP]
+        </a>
+    </li>
+     <li>
+        <a href="/Value-equal-to-index-value.cpp">
+            Value equal to index value [CPP]
+        </a>
+    </li>
 </ul>
