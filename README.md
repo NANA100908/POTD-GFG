@@ -42,8 +42,8 @@ Please create an issue if you wish to add code in a language that is not current
         </a>
     </li>
     <li>
-        <a href="/Xeroing and Clearing.cpp">
-            Xeroing and Clearing [CPP]
+        <a href="/Xoring and Clearing.cpp">
+            Xoring and Clearing [CPP]
         </a>
     </li>
      <li>
