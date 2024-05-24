@@ -60,4 +60,9 @@ Please create an issue if you wish to add code in a language that is not current
             Modular Exponentation for large Numbers [CPP]
         </a>
     </li>
+    <li>
+        <a href="/K_Closest_Element.cpp">
+            K Closest Element [CPP]
+        </a>
+    </li>
 </ul>
