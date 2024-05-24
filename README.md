@@ -61,8 +61,8 @@ Please create an issue if you wish to add code in a language that is not current
         </a>
     </li>
     <li>
-        <a href="/K_Closest_Element.cpp">
-            K Closest Element [CPP]
+        <a href="/K_Closest_Elements.cpp">
+            K Closest Elements [CPP]
         </a>
     </li>
 </ul>
