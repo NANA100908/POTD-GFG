@@ -72,7 +72,7 @@ Please create an issue if you wish to add code in a language that is not current
     </li>
 </ul>
 
-### May 2024 Problems:
+### Jume 2024 Problems:
 <ul>
     <li>
         <a href="/swapping_pairs_make_sum_equal.cpp">
