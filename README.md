@@ -79,4 +79,9 @@ Please create an issue if you wish to add code in a language that is not current
             Swapping Pairs Make Sum Equal [CPP]
         </a>
     </li>
+    <li>
+        <a href="/Max_sum_in_the_configuration.cpp">
+            Max sum in the Configuration [CPP]
+        </a>
+    </li>
 </ul>
