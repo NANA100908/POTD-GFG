@@ -84,4 +84,9 @@ Please create an issue if you wish to add code in a language that is not current
             Max sum in the Configuration [CPP]
         </a>
     </li>
+    <li>
+        <a href="/Maximum_occured_integer.cpp">
+            Maximum Occured Integer [CPP]
+        </a>
+    </li>
 </ul>
