@@ -89,4 +89,9 @@ Please create an issue if you wish to add code in a language that is not current
             Maximum Occured Integer [CPP]
         </a>
     </li>
+    <li>
+        <a href="/Count_numbers_containing4.cpp">
+            Count Numbers Contaning 4 [CPP]
+        </a>
+    </li>
 </ul>
